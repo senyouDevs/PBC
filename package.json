@@ -6,7 +6,7 @@
   "author": "",
   "scripts": {
     "start": "react-app-rewired start",
-    "build": "react-app-rewired build",
+    "build": "react-scripts build",
     "test": "react-app-rewired test",
     "eject": "react-scripts eject",
     "lint": "lint src/**/*jsx",
